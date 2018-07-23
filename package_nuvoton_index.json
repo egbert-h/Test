@@ -12,7 +12,7 @@
                   "architecture": "nuvoton",
                   "version": "1.8.5",
                   "category": "Arduino",
-                  "url": "https://github.com/hphuangNuvoton/Test/blob/master/Arduino_Test.tar.bz2",
+                  "url": "https://raw.githubusercontent.com/hphuangNuvoton/Test/master/Arduino_Test.tar.bz2",
                   "archiveFileName": "Arduino_Test.tar.bz2",
                   "checksum": "SHA-256:A6822FCD3F77D09D7FB620F03C2188495AA285B667DEDC6E713EDCBC464838F0",
                   "size": "2345367",
