@@ -14,8 +14,8 @@
                   "category": "Arduino",
                   "url": "https://raw.githubusercontent.com/hphuangNuvoton/Test/master/Arduino_Test.tar.bz2",
                   "archiveFileName": "Arduino_Test.tar.bz2",
-                  "checksum": "SHA-256:4E71C75E86EF635062155C81F57688862EA3C9F1DCA158B64F78FA4F45645644",
-                  "size": "2348872",
+                  "checksum": "SHA-256:D60EDE1C7E448A2D6565C0FA30264D1061F879BDA0E65E4F37009A011EB2F0F5",
+                  "size": "2348285",
                   "boards": [
                     {"name": "Nuvoton NuMaker Uno"}
                   ],
